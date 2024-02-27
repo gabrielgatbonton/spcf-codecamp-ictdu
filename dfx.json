@@ -1,6 +1,6 @@
 {
     "canisters": {
-        "icp_simple_site": {
+        "spcf-codecamp-ictdu": {
             "frontend": {
                 "entrypoint": "dist/index.html"
             },
